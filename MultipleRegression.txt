@@ -25,3 +25,5 @@ print('Custom prediction: ', custom_model)
 print('Mean squared error: ',mean_squared_error(diabetes_test_y, diabetes_predict_y))
 print('Weights: ',model.coef_)
 print('Intercept: ', model.intercept_)
+
+}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
