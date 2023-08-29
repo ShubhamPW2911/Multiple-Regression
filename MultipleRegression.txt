@@ -26,4 +26,4 @@ print('Mean squared error: ',mean_squared_error(diabetes_test_y, diabetes_predic
 print('Weights: ',model.coef_)
 print('Intercept: ', model.intercept_)
 
-}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
+}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}
